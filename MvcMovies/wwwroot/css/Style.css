@@ -1,0 +1,14 @@
+﻿
+
+.socialIcons {
+    width: 2.5vw;
+    height: 5vh;
+}
+.socialIcons:hover {
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+
+.marg-15{
+ margin-right:5px;
+}
